@@ -10,4 +10,6 @@ You can either execute the script via terminal with `.\route\to\script\winget-ma
 ### Notes
 If you want to make scripts like this, you can try [winstall](https://winstall.app/) or use `winget search app.you.want.to.install` to look for new packages and tailor a custom script. Not everything is available in `winget` though.
 
-For an automated, non-attended installation, you may use the command line options `winget install --id=packet.to.install -e  ;` as you write the script.
+For an automated, non-attended installation, you may use the command line options
+`winget install --id=packet.to.install -e  ;`
+as you write the script.
