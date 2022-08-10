@@ -1,2 +1,1 @@
-# Winget Master Script for Gaming Machine
-Winget script for my gaming machine.
+# Winget Master Script for main Windows Machine
