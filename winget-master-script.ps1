@@ -24,7 +24,7 @@ winget install --id=Git.Git -e  ;
 winget install --id=GitHub.GitHubDesktop -e  ;
 ### Sys Apps ###
 winget install --id=Microsoft.PowerShell -e  ;
-winget install --id=Debian.Debian -e  ;z
+winget install --id=Debian.Debian -e  ;
 winget install --id=Canonical.Ubuntu -e  ;
 ### Media Apps ###
 # Slow download # winget install --id=VideoLAN.VLC -e  ;
