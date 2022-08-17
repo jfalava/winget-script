@@ -32,9 +32,10 @@ winget install --id=TIDALMusicAS.TIDAL -e  ;
 winget install --id=CiderCollective.Cider -e  ;
 winget install --id=Apple.iTunes -e  ;
 ### SNS Apps ###
-winget install --id=9NKSQGP7F2NH -e --accept-package-agreements ; ## UWP WhatsApp
-winget install --id=Telegram.TelegramDesktop -e  ;
+# winget install --id=9NKSQGP7F2NH -e --accept-package-agreements ; ## UWP WhatsApp
 winget install --id=Discord.Discord -e  ;
+winget install --id=Telegram.TelegramDesktop -e  ;
+winget install --id=WhatsApp.WhatsApp.Beta -e  ;
 ### Backup Apps ###
 winget install --id=Mega.MEGASync -e  ;
 winget install --id=Internxt.Drive -e  ;
