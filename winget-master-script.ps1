@@ -27,18 +27,19 @@ winget install --id=Microsoft.PowerShell -e  ;
 winget install --id=Debian.Debian -e  ;
 winget install --id=Canonical.Ubuntu -e  ;
 ### Media Apps ###
-# Slow download # winget install --id=VideoLAN.VLC -e  ;
+# winget install --id=VideoLAN.VLC -e  ; ## Slow download 
 winget install --id=TIDALMusicAS.TIDAL -e  ;
 winget install --id=CiderCollective.Cider -e  ;
 winget install --id=Apple.iTunes -e  ;
 ### SNS Apps ###
-winget install --id=WhatsApp.WhatsApp.Beta -e  ;
+winget install --id=9NKSQGP7F2NH -e --accept-package-agreements ; ## UWP WhatsApp
 winget install --id=Telegram.TelegramDesktop -e  ;
 winget install --id=Discord.Discord -e  ;
 ### Backup Apps ###
 winget install --id=Mega.MEGASync -e  ;
 winget install --id=Internxt.Drive -e  ;
-winget install --id=dokan-dev.Dokany -e  ;
+winget install --id=dokan-dev.Dokany -e --version 1.4.0.1000 ; ## Keybase Drive
+winget install --id=9PKTQ5699M62 -e --accept-package-agreements ; ## iCloud
 ### Internet Apps ###
 winget install --id=VladimirYakovlev.ElectronMail -e  ;
 winget install --id=BraveSoftware.BraveBrowser -e  ;
@@ -51,7 +52,7 @@ winget install --id=NordPassTeam.NordPass -e  ;
 winget install --id=AnyDeskSoftwareGmbH.AnyDesk -e  ;
 winget install --id=Microsoft.Teams -e  ;
 winget install --id=Fortinet.FortiClientVPN -e  ;
-# Slow download # winget install --id=GlavSoft.TightVNC -e  ;
+# winget install --id=GlavSoft.TightVNC -e  ;  ## Slow download
 ### Tool Apps ###
 winget install --id=ModernFlyouts.ModernFlyouts -e  ;
 winget install --id=M2Team.NanaZip -e  ;
@@ -60,6 +61,7 @@ winget install --id=REALiX.HWiNFO -e  ;
 winget install --id=Microsoft.PowerToys -e  ;
 winget install --id=Nota.Gyazo -e  ;
 winget install --id=Adobe.Acrobat.Reader.64-bit -e  ;
+winget install --id=9NV4BS3L1H4S -e --accept-package-agreements ; ## QuickLook
 ### Peripherals Apps ###
 winget install --id=SteelSeries.GG -e  ;
 winget install --id=Logitech.GHUB -e  ;
