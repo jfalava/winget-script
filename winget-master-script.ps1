@@ -55,14 +55,16 @@ winget install --id=Microsoft.Teams -e  ;
 winget install --id=Fortinet.FortiClientVPN -e  ;
 # winget install --id=GlavSoft.TightVNC -e  ;  ## Slow download
 ### Tool Apps ###
-winget install --id=ModernFlyouts.ModernFlyouts -e  ;
 winget install --id=M2Team.NanaZip -e  ;
 winget install --id=bozbez.WinCaptureAudio.beta -e  ;
 winget install --id=REALiX.HWiNFO -e  ;
-winget install --id=Microsoft.PowerToys -e  ;
 winget install --id=Nota.Gyazo -e  ;
 winget install --id=Adobe.Acrobat.Reader.64-bit -e  ;
+### Windows QoL Apps ###
+winget install --id=ModernFlyouts.ModernFlyouts -e  ;
+winget install --id=Microsoft.PowerToys -e  ;
 winget install --id=9NV4BS3L1H4S -e --accept-package-agreements ; ## QuickLook
+winget install --id=xanderfrangos.twinkletray -e  ;
 ### Peripherals Apps ###
 winget install --id=SteelSeries.GG -e  ;
 winget install --id=Logitech.GHUB -e  ;
