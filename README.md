@@ -6,7 +6,7 @@ You need [winget](https://github.com/microsoft/winget-cli/) for this script to b
 ## How to run
 
 You can either execute the script via terminal with `.\route\to\script\winget-master-script.ps1` or by right clicking the file and selecting `Execute with Powershell`.\
-This is not an unattended install, there will bet multiple admin permission prompts, if the application you are installing requires them. If the installation seems to be waiting for something, you might have a window in your taskbar waiting for attention.
+This is not an unattended install, there will bet multiple admin permission prompts should the application you are installing requires them. If the installation seems to be waiting for something, you might have a window in your taskbar waiting for attention.
 
 ## Notes
 If you want to make scripts like this, you can try [winstall](https://winstall.app/) or use `winget search app.you.want.to.install` to look for the packages you want and tailor a custom Powershell script from there.\
