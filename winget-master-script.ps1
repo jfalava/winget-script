@@ -60,6 +60,7 @@ winget install --id=bozbez.WinCaptureAudio.beta -e  ;
 winget install --id=REALiX.HWiNFO -e  ;
 winget install --id=Nota.Gyazo -e  ;
 winget install --id=Adobe.Acrobat.Reader.64-bit -e  ;
+winget install --id=WinDirStat.WinDirStat -e  ;
 ### Windows QoL Apps ###
 winget install --id=ModernFlyouts.ModernFlyouts -e  ;
 winget install --id=Microsoft.PowerToys -e  ;
