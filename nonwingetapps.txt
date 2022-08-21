@@ -7,3 +7,5 @@ Microsoft Office
 Razer Synapse
 Immerse Gamepack
 Chatterino7
+Focusrite
+PCPanel
