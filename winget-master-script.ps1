@@ -22,6 +22,7 @@ winget install --id=Keybase.Keybase -e  ;
 winget install --id=Microsoft.VisualStudioCode -e  ;
 winget install --id=Git.Git -e  ;
 winget install --id=GitHub.GitHubDesktop -e  ;
+winget install --id=GitHub.cli -e  ;
 ### Sys Apps ###
 winget install --id=Microsoft.PowerShell -e  ;
 winget install --id=Debian.Debian -e  ;
@@ -61,6 +62,7 @@ winget install --id=REALiX.HWiNFO -e  ;
 winget install --id=Nota.Gyazo -e  ;
 winget install --id=Adobe.Acrobat.Reader.64-bit -e  ;
 winget install --id=WinDirStat.WinDirStat -e  ;
+winget install --id=AppWork.JDownloader -e  ;
 ### Windows QoL Apps ###
 winget install --id=ModernFlyouts.ModernFlyouts -e  ;
 winget install --id=Microsoft.PowerToys -e  ;
