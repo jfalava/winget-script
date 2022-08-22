@@ -63,6 +63,7 @@ winget install --id=Nota.Gyazo -e  ;
 winget install --id=Adobe.Acrobat.Reader.64-bit -e  ;
 winget install --id=WinDirStat.WinDirStat -e  ;
 winget install --id=AppWork.JDownloader -e  ;
+winget install --id=OBSProject.OBSStudio -e  ;
 ### Windows QoL Apps ###
 winget install --id=ModernFlyouts.ModernFlyouts -e  ;
 winget install --id=Microsoft.PowerToys -e  ;
