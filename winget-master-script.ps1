@@ -34,7 +34,8 @@ winget install --id=CiderCollective.Cider -e  ;
 winget install --id=Apple.iTunes -e  ;
 ### SNS Apps ###
 # winget install --id=9NKSQGP7F2NH -e --accept-package-agreements ; ## UWP WhatsApp
-winget install --id=Discord.Discord -e  ;
+# winget install --id=Discord.Discord -e  ; ## Winget version is bugget ATM
+winget install --id=XPDC2RH70K22MN -e --accept-package-agreements ; ## Microsoft Store Discord
 winget install --id=Telegram.TelegramDesktop -e  ;
 winget install --id=WhatsApp.WhatsApp.Beta -e  ;
 ### Backup Apps ###
