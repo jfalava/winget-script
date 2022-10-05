@@ -38,6 +38,7 @@ winget install --id=Apple.iTunes -e  ;
 winget install --id=XPDC2RH70K22MN -e --accept-package-agreements ; ## Microsoft Store Discord
 winget install --id=Telegram.TelegramDesktop -e  ;
 winget install --id=WhatsApp.WhatsApp.Beta -e  ;
+winget install --id=OpenWhisperSystems.Signal -e  ;
 ### Backup Apps ###
 winget install --id=Mega.MEGASync -e  ;
 winget install --id=Internxt.Drive -e  ;
