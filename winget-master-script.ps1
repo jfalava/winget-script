@@ -31,7 +31,6 @@ winget install --id=Canonical.Ubuntu -e  ;
 # winget install --id=VideoLAN.VLC -e  ; ## Slow download 
 winget install --id=TIDALMusicAS.TIDAL -e  ;
 winget install --id=CiderCollective.Cider -e  ;
-winget install --id=Apple.iTunes -e  ;
 ### SNS Apps ###
 # winget install --id=9NKSQGP7F2NH -e --accept-package-agreements ; ## UWP WhatsApp
 # winget install --id=Discord.Discord -e  ; ## Winget version is bugget ATM
@@ -44,14 +43,7 @@ winget install --id=Mega.MEGASync -e  ;
 winget install --id=Internxt.Drive -e  ;
 winget install --id=dokan-dev.Dokany -e --version 1.4.0.1000 ; ## Keybase Drive
 winget install --id=9PKTQ5699M62 -e --accept-package-agreements ; ## iCloud
-### Internet Apps ###
-winget install --id=VladimirYakovlev.ElectronMail -e  ;
-winget install --id=BraveSoftware.BraveBrowser -e  ;
-winget install --id=Mozilla.Firefox -e  ;
-winget install --id=ProtonTechnologies.ProtonVPN -e  ;
-winget install --id=qBittorrent.qBittorrent -e  ;
-winget install --id=NordVPN.NordVPN -e  ;
-winget install --id=NordPassTeam.NordPass -e  ;
+winget install --id=9NC73MJWHSWW -e --accept-package-agreements ; ## SyncFolder
 ### WorkFromHome Apps ###
 winget install --id=AnyDeskSoftwareGmbH.AnyDesk -e  ;
 winget install --id=Microsoft.Teams -e  ;
@@ -74,3 +66,11 @@ winget install --id=xanderfrangos.twinkletray -e  ;
 ### Peripherals Apps ###
 winget install --id=SteelSeries.GG -e  ;
 winget install --id=Logitech.GHUB -e  ;
+### Internet Apps ###
+winget install --id=VladimirYakovlev.ElectronMail -e  ;
+winget install --id=BraveSoftware.BraveBrowser -e  ;
+winget install --id=Mozilla.Firefox -e  ;
+winget install --id=ProtonTechnologies.ProtonVPN -e  ;
+winget install --id=qBittorrent.qBittorrent -e  ;
+winget install --id=NordVPN.NordVPN -e  ;
+winget install --id=NordPassTeam.NordPass -e  ;
