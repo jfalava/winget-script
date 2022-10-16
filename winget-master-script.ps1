@@ -68,7 +68,7 @@ winget install --id=SteelSeries.GG -e  ;
 winget install --id=Logitech.GHUB -e  ;
 ### Internet Apps ###
 winget install --id=VladimirYakovlev.ElectronMail -e  ;
-winget install --id=BraveSoftware.BraveBrowser -e  ;
+winget install --id=Brave.Brave -e  ;
 winget install --id=Mozilla.Firefox -e  ;
 winget install --id=ProtonTechnologies.ProtonVPN -e  ;
 winget install --id=qBittorrent.qBittorrent -e  ;
