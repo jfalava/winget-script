@@ -17,7 +17,7 @@ winget install --id=GOG.Galaxy -e  ;
 winget install --id=RiotGames.LeagueOfLegends.EUW -e  ;
 winget install --id=Blitz.Blitz -e  ;
 winget install --id=goatcorp.XIVLauncher -e  ;
-PerfectWorld.TowerOfFantasy
+winget install --id=PerfectWorld.TowerOfFantasy
 ### Dev Apps ###
 winget install --id=Keybase.Keybase -e  ;
 winget install --id=Microsoft.VisualStudioCode -e  ;
@@ -54,7 +54,7 @@ winget install --id=Adobe.Acrobat.Reader.64-bit -e  ;
 winget install --id=WinDirStat.WinDirStat -e  ;
 winget install --id=AppWork.JDownloader -e  ;
 winget install --id=OBSProject.OBSStudio -e  ;
-CrystalDewWorld.CrystalDiskInfo
+winget install --id=CrystalDewWorld.CrystalDiskInfo -e  ;
 ### Windows QoL Apps ###
 winget install --id=ModernFlyouts.ModernFlyouts -e  ;
 winget install --id=Microsoft.PowerToys -e  ;
