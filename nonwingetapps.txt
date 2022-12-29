@@ -10,3 +10,4 @@ Chatterino7
 Focusrite
 PCPanel
 Battle.net
+MobaXterm
