@@ -17,6 +17,7 @@ winget install --id=GOG.Galaxy -e  ;
 winget install --id=RiotGames.LeagueOfLegends.EUW -e  ;
 winget install --id=Blitz.Blitz -e  ;
 winget install --id=goatcorp.XIVLauncher -e  ;
+PerfectWorld.TowerOfFantasy
 ### Dev Apps ###
 winget install --id=Keybase.Keybase -e  ;
 winget install --id=Microsoft.VisualStudioCode -e  ;
@@ -28,7 +29,7 @@ winget install --id=Microsoft.PowerShell -e  ;
 winget install --id=Debian.Debian -e  ;
 winget install --id=Canonical.Ubuntu -e  ;
 ### Media Apps ###
-# winget install --id=VideoLAN.VLC -e  ; ## Slow download 
+winget install --id=VideoLAN.VLC -e  ; ## Maybe a slow download 
 winget install --id=TIDALMusicAS.TIDAL -e  ;
 winget install --id=CiderCollective.Cider -e  ;
 ### SNS Apps ###
@@ -38,14 +39,12 @@ winget install --id=Telegram.TelegramDesktop -e  ;
 winget install --id=OpenWhisperSystems.Signal -e  ;
 ### Backup Apps ###
 winget install --id=Mega.MEGASync -e  ;
-winget install --id=Internxt.Drive -e  ;
-winget install --id=dokan-dev.Dokany -e --version 1.4.0.1000 ; ## Keybase Drive
 winget install --id=9PKTQ5699M62 -e --accept-package-agreements ; ## iCloud
 winget install --id=9NC73MJWHSWW -e --accept-package-agreements ; ## SyncFolder
 ### WorkFromHome Apps ###
 winget install --id=AnyDeskSoftwareGmbH.AnyDesk -e  ;
 winget install --id=Microsoft.Teams -e  ;
-# winget install --id=GlavSoft.TightVNC -e  ;  ## Slow download
+winget install --id=GlavSoft.TightVNC -e  ;  ## Slow download
 ### Tool Apps ###
 winget install --id=M2Team.NanaZip -e  ;
 winget install --id=bozbez.WinCaptureAudio.beta -e  ;
@@ -55,11 +54,13 @@ winget install --id=Adobe.Acrobat.Reader.64-bit -e  ;
 winget install --id=WinDirStat.WinDirStat -e  ;
 winget install --id=AppWork.JDownloader -e  ;
 winget install --id=OBSProject.OBSStudio -e  ;
+CrystalDewWorld.CrystalDiskInfo
 ### Windows QoL Apps ###
 winget install --id=ModernFlyouts.ModernFlyouts -e  ;
 winget install --id=Microsoft.PowerToys -e  ;
 winget install --id=9NV4BS3L1H4S -e --accept-package-agreements ; ## QuickLook
 winget install --id=xanderfrangos.twinkletray -e  ;
+winget install --id=SomePythonThings.WingetUIStore -e  ;
 ### Peripherals Apps ###
 winget install --id=SteelSeries.GG -e  ;
 winget install --id=Logitech.GHUB -e  ;
