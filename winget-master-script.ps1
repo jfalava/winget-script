@@ -24,6 +24,7 @@ winget install --id=Microsoft.VisualStudioCode -e  ;
 winget install --id=Git.Git -e  ;
 winget install --id=GitHub.GitHubDesktop -e  ;
 winget install --id=GitHub.cli -e  ;
+winget install --id=RileyTestut.AltServer -e  ;
 ### Sys Apps ###
 winget install --id=Microsoft.PowerShell -e  ;
 winget install --id=Debian.Debian -e  ;
@@ -39,7 +40,6 @@ winget install --id=Telegram.TelegramDesktop -e  ;
 winget install --id=OpenWhisperSystems.Signal -e  ;
 ### Backup Apps ###
 winget install --id=Mega.MEGASync -e  ;
-winget install --id=9PKTQ5699M62 -e --accept-package-agreements ; ## iCloud
 winget install --id=9NC73MJWHSWW -e --accept-package-agreements ; ## SyncFolder
 ### WorkFromHome Apps ###
 winget install --id=AnyDeskSoftwareGmbH.AnyDesk -e  ;
