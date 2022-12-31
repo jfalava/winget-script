@@ -34,13 +34,14 @@ winget install --id=VideoLAN.VLC -e  ; ## Maybe a slow download
 winget install --id=TIDALMusicAS.TIDAL -e  ;
 winget install --id=CiderCollective.Cider -e  ;
 ### SNS Apps ###
-winget install --id=9NKSQGP7F2NH -e --accept-package-agreements ; ## UWP WhatsApp
-winget install --id=XPDC2RH70K22MN -e --accept-package-agreements ; ## Microsoft Store Discord
+winget install --id=9NKSQGP7F2NH -e --accept-package-agreements ; ## msstore UWP WhatsApp
+winget install --id=XPDC2RH70K22MN -e --accept-package-agreements ; ## msstore Discord
 winget install --id=Telegram.TelegramDesktop -e  ;
 winget install --id=OpenWhisperSystems.Signal -e  ;
 ### Backup Apps ###
 winget install --id=Mega.MEGASync -e  ;
-winget install --id=9NC73MJWHSWW -e --accept-package-agreements ; ## SyncFolder
+winget install --id=9NC73MJWHSWW -e --accept-package-agreements ; ## msstore icloud
+winget install --id=9NC73MJWHSWW -e --accept-package-agreements ; ## msstore SyncFolder
 ### WorkFromHome Apps ###
 winget install --id=AnyDeskSoftwareGmbH.AnyDesk -e  ;
 winget install --id=Microsoft.Teams -e  ;
@@ -58,7 +59,7 @@ winget install --id=CrystalDewWorld.CrystalDiskInfo -e  ;
 ### Windows QoL Apps ###
 winget install --id=ModernFlyouts.ModernFlyouts -e  ;
 winget install --id=Microsoft.PowerToys -e  ;
-winget install --id=9NV4BS3L1H4S -e --accept-package-agreements ; ## QuickLook
+winget install --id=9NV4BS3L1H4S -e --accept-package-agreements ; ## msstore QuickLook
 winget install --id=xanderfrangos.twinkletray -e  ;
 winget install --id=SomePythonThings.WingetUIStore -e  ;
 ### Peripherals Apps ###
